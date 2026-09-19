@@ -110,7 +110,7 @@ GPA: 8.1/10
 
 📜 Certifications
 IBM Data Science Professional Certificate (Coursera)
-Kaggle Intro to Machine Learning (In Progress)
+Kaggle Intro to Machine Learning 
 
 🎯 Current Focus
 🔬 Deep Learning: Mastering PyTorch and neural network architectures
@@ -118,6 +118,7 @@ Kaggle Intro to Machine Learning (In Progress)
 💬 NLP: Text classification, sentiment analysis, transformers
 🚀 Production Skills: Model deployment, APIs, containerization
 🌱 Learning Path
+
 Foundation (Completed)        Advanced (In Progress)    Expert (Future)
 ├── Python                    ├── Advanced ML            ├── Transformers
 ├── SQL                       ├── Deep Learning          ├── Production ML
@@ -142,12 +143,7 @@ I'm always interested in discussing data science, machine learning, and interest
 💼 LinkedIn: ashish-upadhyay-9aa249226
 📧 Email: upadhyayashish567@gmail.com
 🐙 GitHub: Ash-legend7
-🎁 Quick Links
-Link	Description
-📚 SpaceX Project	End-to-end ML pipeline with API, EDA, ML models, and interactive dashboard
-🧠 PyTorch LSTM	Deep learning NLP - next-word prediction using LSTM
-🏥 Cancer Prediction	Binary classification with 95.9% accuracy
-📊 Portfolio	All repositories and projects
+
 🏆 Achievements
 
 ✅ 95.9% Accuracy - Cancer tumor classification model
@@ -162,14 +158,9 @@ Link	Description
 🚀 Interested in space tech and how ML powers innovation
 🏥 Fascinated by ML applications in healthcare
 🎨 Love creating clean, interactive data visualizations
-📝 Latest Blog / Notes
 
-Coming soon! Planning to share:
 
-Deep learning tutorials
-ML best practices
-Project walkthroughs
-Learning resources
+
 <div align="center">
 Open to Collaboration & Opportunities 🤝
 
