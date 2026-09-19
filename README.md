@@ -117,14 +117,8 @@ Kaggle Intro to Machine Learning
 📊 Advanced ML: Ensemble methods, hyperparameter optimization
 💬 NLP: Text classification, sentiment analysis, transformers
 🚀 Production Skills: Model deployment, APIs, containerization
-🌱 Learning Path
 
-Foundation (Completed)        Advanced (In Progress)    Expert (Future)
-├── Python                    ├── Advanced ML            ├── Transformers
-├── SQL                       ├── Deep Learning          ├── Production ML
-├── Pandas/NumPy              ├── NLP                    ├── MLOps
-├── Basic ML                  └── Statistical Methods    └── Research
-└── Data Visualization
+
 💡 What I'm Looking For
 
 ✅ Entry-level Data Science/ML roles where I can:
