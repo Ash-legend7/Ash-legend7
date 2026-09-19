@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Ashish Upadhyay
  
 <div align="center">
-**Data Science & Machine Learning Enthusiast** | **B.Tech Electronics & Instrumentation Engineering** | **Indore, Madhya Pradesh**
+ Data Science & Machine Learning Enthusiast | B.Tech Electronics & Instrumentation Engineering | Indore, Madhya Pradesh
  
 [![GitHub followers](https://img.shields.io/github/followers/Ash-legend7?label=Follow&style=social)](https://github.com/Ash-legend7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-upadhyay-9aa249226/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:upadhyayashish567@gmail.com)
  
 </div>
----
+
  
 ## 🚀 About Me
  
